@@ -89,30 +89,6 @@ There are three different actions depending on the type of parameter you want to
 
     While most effects are intuitive enough to be used directly, some might require a bit more knowledge to understand what they do. This section explains some of the advanced effects.
 
-####  Color map
-
-Applies a color-map effect on an object or layer.
-
-![](/gdevelop5/interface/scene-editor/71485828-745d9080-2813-11ea-915d-4dcfc9f67201.png)
-
-This works by modifying a reference "color image map" containing all possible colors.
-
-Create your own color map
-
-  - Download the reference color map image:
-    ![](/gdevelop5/interface/scene-editor/color-map-original-template.png)
-  - Use an image editor (like [GIMP](https://www.gimp.org) or Photoshop) to tweak the color the reference color image map with some filters. For instance, you can use GIMP [Rotate Colors](https://docs.gimp.org/3.0/en/gimp-filter-color-rotate.html) filter.
-      - Try some filters on your assets first to get an dea of the end result
-      - Once you found the right settings, apply the same filters to the reference color map image.
-      - Save it as a new file
-  - Use this new image as the color image map for the effect in GDevelop.
-
-Try some ready-to-use color maps
-
-- color-map-model-1.png : ![](/gdevelop5/interface/scene-editor/color-map-model-1.png)
-- color-map-model-2.png : ![](/gdevelop5/interface/scene-editor/color-map-model-2.png)
-- color-map-model-3.png : ![](/gdevelop5/interface/scene-editor/color-map-model-3.png)
-
 ####  CRT
 
 Applies a CRT effect, simulating an old cathode-ray tube television.
